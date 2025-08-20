@@ -1,6 +1,6 @@
 
 import React from 'react'
-import Sidebar from './components/sidebar/Sidebar'
+import Sidebar from './components/sidebar/Sidebar.jsx'
 
 const App = () => {
   return (
@@ -10,4 +10,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
